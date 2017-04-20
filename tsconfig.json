@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "inlineSources": true,
+        "inlineSourceMap": true
+    },
+    "compileOnSave":true,
+    "buildOnSave":true
+}

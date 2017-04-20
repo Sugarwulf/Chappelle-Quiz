@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+}
+
+.grid {
+  width: 600px;
+  height: 900px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 10px 50px 50px 50px;
+  border-radius: 50px;
+  border:2px solid #cbcbcb;
+  box-shadow: 10px 15px 5px #cbcbcb; }
+
+  .grid h1 {
+  font-family: sans-serif;
+  background-color: #57636e;
+  font-size: 60px;
+  text-align: center;
+  color: #fff;
+  padding: 2px 0px;
+  border-radius: 50px; }
+
+  #btnSubmit:hover {
+    background-color: #27C71E
+  }
+
+  td:hover {
+    background-color: #7E7988; color: #E6E5E7
+ }
+
+  #a1:hover, #a2:hover, #a3:hover, #a4:hover {
+  cursor:pointer;
+  background-color: #57636e;
+ }
+
+  #b1:hover, #b2:hover, #b3:hover, #b4:hover {
+  cursor:pointer;
+  background-color: #57636e;
+ }
+
+  #c1:hover, #c2:hover, #c3:hover, #c4:hover {
+  cursor:pointer;
+  background-color: #57636e;
+ }
+
+  #d1:hover, #d2:hover, #d3:hover, #d4:hover {
+  cursor:pointer;
+  background-color: #57636e;
+ }
+
+  #e1:hover, #e2:hover, #e3:hover, #e4:hover {
+  cursor:pointer;
+  background-color: #57636e;
+ }
